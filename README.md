@@ -1,98 +1,117 @@
-📊 Data Jobs Dashboard – 2024 Market Analysis
+# 📊 Data Jobs Dashboard – Power BI Portfolio Project
 
-📈 Power BI Dashboard analyzing 479K+ global data job listings (2024) for salary, demand, and role trends.
+📈 **Comprehensive Power BI project analyzing over 479K+ global data job listings (2024), focusing on salary trends, skill demand, and career insights.**
 
+This repository includes **two interactive Power BI dashboards**:
 
-🔍 Overview
+1. **Data Jobs Dashboard 2.0 – Skills & Salary Insights**
 
-This Power BI dashboard provides a detailed analysis of global data job trends, salary insights, and skill demand for the year 2024.
-It visualizes the changing landscape of data-related roles and helps identify which positions offer the best salary potential and growth trends.
+2. **Data Jobs Trend Analysis Dashboard – 2024 Market Overview**
 
+---
 
+## 🧭 Project Overview
 
-🎯 Objective
+The dashboards together provide an end-to-end analysis of the global **data job market**, combining insights on:
 
-● To analyze and visualize:
+- Skill demand and job popularity
+  
+- Salary comparisons by role and skill
+  
+- Trends in job postings and salary growth through 2024  
 
-● The trend of data job postings throughout 2024.
+Both dashboards were built using **Power BI**, with **Power Query** for data cleaning and **DAX** for calculated KPIs and trend measures.
 
-● The relationship between hourly and yearly salaries across various data roles.
+---
 
-● The distribution of job counts among common roles like Data Engineer, Data Analyst, and Data Scientist.
+## 🖼️ Dashboard Previews
 
-● The overall job market rating is based on salary competitiveness.
+### 🧩 Dashboard 1 – Skills & Salary Insights
+![Dashboard 1](./Dashboard_1_Skills_Salary/Data%20Jobs%20Dashboard%202.0%20-%20Skills%20%26%20Salary%20Insights.png)
 
+**Focus Areas:**
 
+- Skill Popularity (Python, SQL, AWS, Tableau, Power BI, etc.)
+ 
+- Median yearly/hourly salaries by data role
+ 
+- Key metrics: Job Count (479K), Skills/Job (4.75), Median Salary ($113K)
+ 
+- Job salary distribution across top roles  
 
-📸 Dashboard Preview
-[Dashboard Screenshot](Dashboard%20-%20Data%20Jobs%20Trend%20Analysis-2024%20Market%20Overview.png)
+**Key Insights:**
 
+- Python and SQL dominate 65%+ of data roles  
 
+- Machine Learning Engineers & Data Engineers have top salaries ($130K–$155K)  
 
-🧩 Key Features
+- Average data roles require ~4–5 technical skills  
 
-✅ Dynamic KPI Cards – Show overall job count (479K), average salary rating, and median salaries. 
+---
 
-✅ Trend Analysis – Line chart showing how job postings fluctuated month-by-month in 2024.
+### 📈 Dashboard 2 – Trend Analysis & Market Overview
+![Dashboard 2](./Dashboard_2_Trend_Analysis/Dashboard%20-%20Data%20Jobs%20Trend%20Analysis-2024%20Market%20Overview.png)
 
-✅ Salary Comparison – Scatter plot comparing hourly vs yearly salary by job role.
+**Focus Areas:**
 
-✅ Job Distribution – Bar chart showing job count across different data roles.
+- Monthly job posting trends in 2024  
 
-✅ Detailed Role Table – Displays job count, yearly/hourly salary, and trend for each role.
+- Hourly vs Yearly salary relationships  
 
-✅ Drill-through Option – Allows users to navigate deeper into role-specific data (in Power BI file).
+- Role-wise job count & salary comparison  
 
+- Interactive KPI cards and drill-through for job details  
 
+**Key Insights:**
 
-💡 Insights Derived
+- Data Engineer roles dominate job demand (129K+)  
 
-📈 Data Engineer roles dominate the job market with ~129K listings.
+- Machine Learning Engineers have the highest median salary (~$155K)  
 
-💰 Machine Learning Engineers earn the highest median yearly salary (~$155K).
+- Job postings dipped mid-year but rebounded in Nov 2024  
 
-📊 Median yearly salary across data roles stands at $113K, with a median hourly rate of $47.6/hr.
+- Median salary: $113K | Median hourly rate: $47.6/hr  
 
-📉 Job postings saw a decline mid-year but rebounded in November 2024, signaling renewed hiring activity.
+---
 
-⭐ Overall salary competitiveness rated 3.5 out of 5 across data roles.
+## 🧮 Tools & Technologies Used
 
+- **Power BI** – Dashboarding, modeling, DAX, and data visualization  
 
+- **Power Query** – Data extraction, cleaning, transformation  
 
-🧮 Tools & Technologies Used
+- **Excel / CSV Dataset** – Source: *Kaggle – Data Science Jobs 2024*  
 
-● Power BI for dashboard design and visualization
+- **DAX Measures** – Salary KPIs, trend metrics, skill-job relationships  
 
-● Power Query for data cleaning and transformation
+---
 
-● DAX (Data Analysis Expressions) for custom measures and KPIs
+## 🧠 Skills Demonstrated
 
-● Excel / CSV dataset (source: Kaggle – Data Science Jobs 2024)
+- Data Visualization & Storytelling  
 
+- DAX Calculations & KPI Development  
 
+- Analytical Thinking & Trend Analysis  
 
-🖼️ Dashboard Preview:-
+- Power Query Data Modeling  
 
+- UI/UX Design for Dashboards  
 
-🧠 Key Skills Demonstrated
+---
 
-● Data visualization & storytelling
+## 🚀 Business Value
 
-● Data modeling in Power BI
+This project helps:
 
-● DAX calculations for dynamic KPIs
+- 🎯 **Job Seekers** understand the most valuable skills and high-paying roles.  
 
-● Analytical thinking & market trend analysis
+- 🧩 **Recruiters** track hiring trends and benchmark salaries.  
 
-● Dashboard layout and UI/UX design
+- 💼 **Organizations** plan competitive hiring strategies based on skill demand.  
 
+---
 
-🚀 Business Value
+⭐ **Created by [Rahul Mane](https://github.com/Rahul5215)**  
+📅 *Developed in Power BI | Dataset: Kaggle – Data Science Jobs 2024*
 
-● This dashboard helps:
-
-● Job seekers identify high-paying, in-demand data roles.
-
-● Recruiters track skill trends and salary competitiveness.
-
-● Businesses understand hiring trends and salary benchmarks for data professionals.
