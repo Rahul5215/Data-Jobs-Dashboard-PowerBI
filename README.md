@@ -27,7 +27,7 @@ Both dashboards were built using **Power BI**, with **Power Query** for data cle
 ## 🖼️ Dashboard Previews
 
 ### 🧩 Dashboard 1 – Skills & Salary Insights
-![Dashboard 1](./Dashboard_1_Skills_Salary/Data%20Jobs%20Dashboard%202.0%20-%20Skills%20%26%20Salary%20Insights.png)
+![Dashboard 1](Data%20Jobs%20Dashboard%202.0%20-%20Skills%20%26%20Salary%20Insights.png)
 
 **Focus Areas:**
 
@@ -50,7 +50,7 @@ Both dashboards were built using **Power BI**, with **Power Query** for data cle
 ---
 
 ### 📈 Dashboard 2 – Trend Analysis & Market Overview
-![Dashboard 2](./Dashboard_2_Trend_Analysis/Dashboard%20-%20Data%20Jobs%20Trend%20Analysis-2024%20Market%20Overview.png)
+![Dashboard 2](Dashboard%20-%20Data%20Jobs%20Trend%20Analysis-2024%20Market%20Overview.png)
 
 **Focus Areas:**
 
