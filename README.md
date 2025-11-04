@@ -2,10 +2,12 @@
 
 📈 Power BI Dashboard analyzing 479K+ global data job listings (2024) for salary, demand, and role trends.
 
+
 🔍 Overview
 
 This Power BI dashboard provides a detailed analysis of global data job trends, salary insights, and skill demand for the year 2024.
 It visualizes the changing landscape of data-related roles and helps identify which positions offer the best salary potential and growth trends.
+
 
 
 🎯 Objective
@@ -21,27 +23,40 @@ It visualizes the changing landscape of data-related roles and helps identify wh
 ● The overall job market rating is based on salary competitiveness.
 
 
+
 📸 Dashboard Preview
 [Dashboard Screenshot](Dashboard%20-%20Data%20Jobs%20Trend%20Analysis-2024%20Market%20Overview.png)
 
 
+
 🧩 Key Features
 
-✅ Dynamic KPI Cards – Show overall job count (479K), average salary rating, and median salaries.
+✅ Dynamic KPI Cards – Show overall job count (479K), average salary rating, and median salaries. 
+
 ✅ Trend Analysis – Line chart showing how job postings fluctuated month-by-month in 2024.
+
 ✅ Salary Comparison – Scatter plot comparing hourly vs yearly salary by job role.
+
 ✅ Job Distribution – Bar chart showing job count across different data roles.
+
 ✅ Detailed Role Table – Displays job count, yearly/hourly salary, and trend for each role.
+
 ✅ Drill-through Option – Allows users to navigate deeper into role-specific data (in Power BI file).
+
 
 
 💡 Insights Derived
 
 📈 Data Engineer roles dominate the job market with ~129K listings.
+
 💰 Machine Learning Engineers earn the highest median yearly salary (~$155K).
+
 📊 Median yearly salary across data roles stands at $113K, with a median hourly rate of $47.6/hr.
+
 📉 Job postings saw a decline mid-year but rebounded in November 2024, signaling renewed hiring activity.
+
 ⭐ Overall salary competitiveness rated 3.5 out of 5 across data roles.
+
 
 
 🧮 Tools & Technologies Used
@@ -55,7 +70,9 @@ It visualizes the changing landscape of data-related roles and helps identify wh
 ● Excel / CSV dataset (source: Kaggle – Data Science Jobs 2024)
 
 
+
 🖼️ Dashboard Preview:-
+
 
 🧠 Key Skills Demonstrated
 
