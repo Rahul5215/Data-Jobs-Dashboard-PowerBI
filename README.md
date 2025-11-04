@@ -1,5 +1,7 @@
 📊 Data Jobs Dashboard – 2024 Market Analysis
 
+📈 Power BI Dashboard analyzing 479K+ global data job listings (2024) for salary, demand, and role trends.
+
 🔍 Overview
 This Power BI dashboard provides a detailed analysis of global data job trends, salary insights, and skill demand for the year 2024.
 It visualizes the changing landscape of data-related roles and helps identify which positions offer the best salary potential and growth trends.
@@ -11,6 +13,13 @@ It visualizes the changing landscape of data-related roles and helps identify wh
 ● The relationship between hourly and yearly salaries across various data roles.
 ● The distribution of job counts among common roles like Data Engineer, Data Analyst, and Data Scientist.
 ● The overall job market rating is based on salary competitiveness.
+
+
+🔍 Preview
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot]()
+
 
 🧩 Key Features
 
