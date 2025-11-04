@@ -4,9 +4,9 @@
 
 This repository includes **two interactive Power BI dashboards**:
 
-1. **1-Data Jobs Dashboard – Skills & Salary Insights**
+1. **Data Jobs Dashboard – Skills & Salary Insights**
 
-2. **2-Data Jobs Trend Analysis Dashboard – 2024 Market Overview**
+2. **Data Jobs Trend Analysis Dashboard – 2024 Market Overview**
 
 ---
 
