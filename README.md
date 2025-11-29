@@ -53,7 +53,8 @@ Both dashboards were built using **Power BI**, with **Power Query** for data cle
 ![Dashboard 2](https://github.com/Rahul5215/Data-Jobs-Dashboard-PowerBI/blob/main/Dashboard%20%20%E2%80%93%20Trend%20Analysis%20%26%202024%20Market%20Overview.png)
 
 Dashboard 2 - Drill Through Page
-![Dashboard 2](https://github.com/Rahul5215/Data-Jobs-Dashboard-PowerBI/blob/main/Dashboard%20%20%E2%80%93%20Trend%20Analysis%20%26%202024%20Market%20Overview.png)
+
+![Dashboard 2](https://github.com/Rahul5215/Data-Jobs-Dashboard-PowerBI/blob/main/Drill%20Through%20Page.png)
 
 **Focus Areas:**
 
