@@ -27,7 +27,7 @@ Both dashboards were built using **Power BI**, with **Power Query** for data cle
 ## 🖼️ Dashboard Previews
 
 ### 🧩 Dashboard 1 – Skills & Salary Insights
-![Dashboard 1](Dashboard%20-%20Skills%20%26%20Salary%20Insights.png)
+![Dashboard 1](https://github.com/Rahul5215/Data-Jobs-Dashboard-PowerBI/blob/main/Dashboard%20%20%E2%80%93%20%20Skills%20%26%20Salary%20Insights.png)
 
 **Focus Areas:**
 
